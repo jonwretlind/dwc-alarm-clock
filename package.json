@@ -1,0 +1,15 @@
+{
+  "name": "alarmclock-start",
+  "version": "1.0.0",
+  "description": "A cool alarm clock app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon C. Wretlind",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodaemon": "^0.0.5"
+  }
+}
